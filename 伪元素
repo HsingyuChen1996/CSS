@@ -1,0 +1,9 @@
+伪元素（Pseudo-element）跟伪类很像，但它们又有不同的地方。它们都是关键字 —— 但这次伪元素前缀是两个冒号 (::)
+ 同样是添加到选择器后面达到指定某个元素的某个部分。
+
+::after
+::before
+::first-letter
+::first-line
+::selection
+::backdrop
