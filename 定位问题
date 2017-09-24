@@ -4,7 +4,9 @@ absolute定位：应用了absolute定位的元素会脱离文档流，好像它�
 fixed定位：fixed定位同样是脱离了标准文档流，不过他是相对于浏览器的窗口而言的，不会随着滚动条或者是界面的移动而改变，同样可以设定top、left、right、bottom值。
 
 
-
+ 外层是relative,
+ absolute是相对于relative, absolute定位。
+外层没有relative时，相对于body定位。
 
 
 
